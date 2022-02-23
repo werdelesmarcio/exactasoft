@@ -1,8 +1,16 @@
 # ExactaSOFT
-## Programa para Cadastrar Usuários - Estudo em React App
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/bb4bdb5dc1fcaa1a07e3/maintainability)](https://codeclimate.com/github/werdelesmarcio/ExactaSOFT/maintainability)
-<img alt="AppVeyor" src="https://img.shields.io/appveyor/ci/werdelesmarcio/PyTCPScan"> [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_PyTCPScan&metric=alert_status)](https://sonarcloud.io/dashboard?id=werdelesmarcio_PyTCPScan) <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/PyTCPScan"> <img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/PyTCPScan"> <img alt="Twitter URL" src="https://img.shields.io/twitter/url/https/twitter.com/ScorpionInc?style=social">
+[![Build status](https://ci.appveyor.com/api/projects/status/api9jsna3c7wpb7i?svg=true)](https://ci.appveyor.com/project/werdelesmarcio/exactasoft)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ExactaSOFT&metric=bugs)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ExactaSOFT)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ExactaSOFT&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ExactaSOFT)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ExactaSOFT&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ExactaSOFT)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ExactaSOFT&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ExactaSOFT)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=werdelesmarcio_ExactaSOFT&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=werdelesmarcio_ExactaSOFT)
+<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/werdelesmarcio/ExactaSOFT"> 
+<img alt="GitHub" src="https://img.shields.io/github/license/werdelesmarcio/ExactaSOFT">
+
+## Programa para Cadastrar Usuários - Estudo em React App
 
 ### Scripts usados
 
@@ -71,5 +79,6 @@ Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/ExactaSOFT?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/ExactaSOFT?style=for-the-badge">
 
-<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
-<img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
+<img src = "https://devstickers.com/assets/img/pro/uhro.png" width =130 align="Right">
+
+<img src = "https://eduinfinity.in/wp-content/uploads/2018/07/javascript.png" width =170 align="Right">
