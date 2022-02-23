@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Carlos Cesar",
+      "email": "ccezar@email.com",
+      "id": 1
+    },
+    {
+      "name": "Maria Clara",
+      "email": "mclara@email.com",
+      "id": 2
+    },
+    {
+      "name": "Alana Nascimento",
+      "email": "alana@email.com",
+      "id": 3
+    },
+    {
+      "name": "Fernando Marinho",
+      "email": "fernando@email.com",
+      "id": 4
+    }
+  ]
+}
