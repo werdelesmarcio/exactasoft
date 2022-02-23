@@ -60,7 +60,7 @@ Você não precisa usar `eject`. O conjunto de recursos com curadoria é adequad
 
 ## Licença: 
 ***Este projeto está sob Licença GPL-3.0.***
-Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan/blob/master/Archives/LICENSE) para obter mais detalhes.
+Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/ExactaSOFT/blob/main/LICENSE) para obter mais detalhes.
 
 ## Agradecimentos:
 * Obrigado à todos os que apoiam o projeto de alguma forma.
@@ -68,7 +68,7 @@ Consulte o arquivo [de Licença](https://github.com/werdelesmarcio/PyTCPScan/blo
 ## Contatos
 Se quiser entrar em contato, crie um **issue** no GitHub ou envie um e-mail para werdelesmarcio@gmail.com. Obrigado!
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/PyTCPScan?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/PyTCPScan?style=for-the-badge">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/werdelesmarcio/ExactaSOFT?style=for-the-badge">   <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/werdelesmarcio/ExactaSOFT?style=for-the-badge">
 
 <img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/SoftwareLivre.png?raw=true" width =130 align="Right">
 <img src = "https://github.com/werdelesmarcio/PyTCPScan/blob/main/Images/PoweredByLinux.png?raw=true" width =80 align="Right">
